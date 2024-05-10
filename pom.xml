@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.nt.test</groupId>
-	<artifactId>iocproj02-factorypattern-corejava</artifactId>
+	<artifactId>iocproj04-strategydp-spring-core</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>BootProj01DependencyInjection</name>
+	<name>iocproj04-strategydp-spring-core</name>
 	<description>iocproj02-factorypattern-corejava</description>
 	<properties>
 		<java.version>17</java.version>
